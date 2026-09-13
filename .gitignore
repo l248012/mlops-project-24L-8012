@@ -1,0 +1,27 @@
+# Student: 24L-8012
+
+# Raw datasets
+data/
+*.csv
+
+# Trained model artifacts
+model/
+*.pkl
+*.joblib
+*.h5
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code / IDE files
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
