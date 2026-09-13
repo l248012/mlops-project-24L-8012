@@ -9,6 +9,7 @@ import pandas as pd
 STUDENT_ID = "24L-8012"
 
 DATA_PATH = os.path.join("data", "house_prices.csv")
+SCALING_METHOD = "standardization"
 
 
 def load_data():
